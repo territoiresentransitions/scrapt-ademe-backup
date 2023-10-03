@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Groupe_2778" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000067948269763463910500000014662336863141612936_);}
+	.st1{clip-path:url(#SVGID_00000029031593327079885470000003228381376056636033_);}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.12;}
+	.st4{clip-path:url(#SVGID_00000153664353820214290270000008768715409345569194_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="48" height="48"/>
+	</defs>
+	<clipPath id="SVGID_00000178191078788303212610000006337743788630733983_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Groupe_2759" style="clip-path:url(#SVGID_00000178191078788303212610000006337743788630733983_);">
+		<g id="Groupe_2758">
+			<g>
+				<defs>
+					<rect id="SVGID_00000135670012587744671360000007389079922602794148_" width="48" height="48"/>
+				</defs>
+				<clipPath id="SVGID_00000115483766248296331320000007451118639787497094_">
+					<use xlink:href="#SVGID_00000135670012587744671360000007389079922602794148_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="Groupe_2757" style="clip-path:url(#SVGID_00000115483766248296331320000007451118639787497094_);">
+					<path id="Tracé_1536" class="st2" d="M24,0C10.7,0,0,10.7,0,24s10.7,24,24,24s24-10.7,24-24S37.3,0,24,0 M17.7,32.1V14.6
+						l16.8,8.8L17.7,32.1z"/>
+					<g id="Groupe_2756" transform="translate(17.679 14.6)" class="st3">
+						<g id="Groupe_2755">
+							<g>
+								<defs>
+									<rect id="SVGID_00000035495142176885658130000000049522305119843215_" x="0" y="0" width="16.8" height="9.8"/>
+								</defs>
+								<clipPath id="SVGID_00000072996708448717836990000013593868799408294063_">
+									<use xlink:href="#SVGID_00000035495142176885658130000000049522305119843215_"  style="overflow:visible;"/>
+								</clipPath>
+								<g id="Groupe_2754" style="clip-path:url(#SVGID_00000072996708448717836990000013593868799408294063_);">
+									<path id="Tracé_1537" class="st5" d="M0,0l14.8,9.8l2.1-1.1L0,0z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

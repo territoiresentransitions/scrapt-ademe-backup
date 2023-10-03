@@ -1,0 +1,10 @@
+#FlexHeader .logo_container{
+	width: 21% !important;
+}
+.information-label img {
+	max-width: 150px !important;
+}
+
+.social{
+    display: flex;
+}
